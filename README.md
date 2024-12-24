@@ -29,5 +29,6 @@ If there are pedestrians at the crossing and vehicles coming from the hospital r
 
 Here are some images of the FPGA board output demonstrating the traffic light sequences:
 
-![FPGA Board Output]("C:\Users\Q50\OneDrive\Desktop\fpga-output.png")
+![FPGA Board Output](![fpga-output](https://github.com/user-attachments/assets/ada73c1d-7346-4a5d-84fb-7246f3310dba)
+)
 
